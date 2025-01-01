@@ -1,0 +1,15 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
+  },
+  "author": "Athar Khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
